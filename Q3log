@@ -1,0 +1,5 @@
+C:\Users\PythonExercise\_DataIncubator\10262017_DataIncubator
+['symboling', 'normalized-losses', 'make', 'fuel-type', 'aspiration', 'num-of-doors', 'body-style', 'drive-wheels', 'engine-location', 'wheel-base', 'length', 'width', 'height', 'curb-weight', 'engine-type', 'num-of-cylinders', 'engine-size', 'fuel-system', 'bore', 'stroke', 'compression-ratio', 'horsepower', 'peak-rpm', 'city-mpg', 'highway-mpg', 'price'] 26
+(159, 26) (205, 26)
+['num-of-doors', 'num-of-cylinders']
+(159, 1) (159, 1)
